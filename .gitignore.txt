@@ -1,0 +1,10 @@
+
+---
+
+### 📄 .gitignore File
+```bash
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
+.env
+*.pyc
